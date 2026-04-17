@@ -1,0 +1,6 @@
+{
+  "name": "352 空气净化器",
+  "render_readme": true,
+  "iot_class": "Local Push",
+  "homeassistant": "2026.4.2"
+}
