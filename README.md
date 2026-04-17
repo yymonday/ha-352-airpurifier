@@ -1,4 +1,3 @@
-# air_352_ha
 # 352 Air Purifier for Home Assistant
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
