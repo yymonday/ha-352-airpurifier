@@ -25,7 +25,7 @@
 ### 推荐方法：通过 HACS 安装
 1. 打开 Home Assistant，进入 HACS。
 2. 点击右上角的三个点 `...` -> **自定义存储库 (Custom repositories)**。
-3. 存储库 URL 填入：`https://github.com/aexyun/ha-352-airpurifier`
+3. 存储库 URL 填入：`https://github.com/yymonday/ha-352-airpurifier`
 4. 类别选择：**集成 (Integration)**。
 5. 点击添加后，在 HACS 中搜索 `352 Air Purifier` 并下载安装。
 6. 重启 Home Assistant。
